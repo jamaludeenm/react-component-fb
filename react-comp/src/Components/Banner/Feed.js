@@ -19,6 +19,7 @@ import { FaStore } from 'react-icons/fa';
 import { FaGift } from 'react-icons/fa';
 import { FaGrin } from 'react-icons/fa';
 
+
 const Feed = () => {
     return (
         <div className='fb'>
